@@ -51,6 +51,8 @@ form input{
     outline: 0;
     background: transparent;
     color: #fff;
+    padding-left: 15px;
+    font-size: 16px;
 }
 form button{
     padding: 0 40px;
@@ -70,8 +72,9 @@ form button:hover{
 ::placeholder{
     color: #fff;
     font-size: 16px;
-    padding-left: 15px;
+    font-weight: 500;
 }
+
 #show-more-btn{
     background: #1c0258;
     color: #fff;
